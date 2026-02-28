@@ -6,31 +6,19 @@ This project is perfect for beginners who want to practice loops, conditionals, 
 📌 About The Project
 
 This is a command-line game where:
-
 The computer randomly selects a number.
-
 The player tries to guess the number.
-
 The program gives hints like:
-
 📉 "The Computer Choice is Lower Than Your Guess!"
-
 📈 "The Computer Choice is Higher Than Your Guess! "
-
 The game continues until the correct number is guessed.
 
-Displays number of attempts taken.
-
-This project helps in understanding:
+Displays number of attempts taken.This project helps in understanding:
 
 while loops
-
 if-elif-else conditions
-
-random module
-
+Random module
 Input validation
-
 Basic game logic
 
 🚀 Features
@@ -45,11 +33,12 @@ Basic game logic
 🛠️ Tech Stack
 
 Language: Python 3
+Module Used: random
+Type: CLI (Command Line Interface)
+
 👨‍💻 Author
 
 Utsav Kumar Jha
 Beginner Python Developer 🚀
 Learning by building real projects.
-Module Used: random
 
-Type: CLI (Command Line Interface)

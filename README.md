@@ -25,23 +25,6 @@ TECHNOLOGIES USED
 - Module: random
 - Interface: Command Line (CLI)
 
-------------------------------------------------------------
-
-PROJECT STRUCTURE
-
-Guess_The_Number/
-    guess_number.py
-    README.txt
-
-------------------------------------------------------------
-
-HOW TO RUN
-
-1. Make sure Python is installed.
-   Run: python --version
-
-2. Run the program:
-   python guess_number.py
 
 ------------------------------------------------------------
 

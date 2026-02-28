@@ -54,6 +54,7 @@ By building this project, you learn:
 
 AUTHOR
 
-Utsav Kumar Jha\n
-Python Learner\n
-Building projects to improve programming skills.
+- Utsav Kumar Jha
+- Python Learner
+- Building projects to improve programming skills.
+------------------------------------------------------------
